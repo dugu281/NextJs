@@ -22,7 +22,7 @@ export default function Table(props) {
 
             <div className="flex justify-center align-center flex-col">
 
-                <h1 className="mx-auto text-2xl">User's List</h1>
+                <h1 className="mx-auto text-2xl">User List</h1>
 
                 <div className="w-full items-center">
                     <input
